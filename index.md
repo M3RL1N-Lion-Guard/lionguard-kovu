@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to The Website from Lion Guard
 
 You can use the [editor on GitHub](https://github.com/M3RL1N-Lion-Guard/lionguard-kovu/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
